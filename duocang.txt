@@ -6,6 +6,8 @@
 
 { "url": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/%E7%88%B1TV%E5%90%A7.json", "name": "💚爱TV（230917自维）" },
 
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/%E7%88%B1TV%E5%90%A7.json", "name": "💚爱TV（github）" },
+
 { "url": "https://ghproxy.net/https://raw.githubusercontent.com/yhxxm/my/main/box.json", "name": "yhxxm" },
 
 { "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json", "name": "香雅晴" },
