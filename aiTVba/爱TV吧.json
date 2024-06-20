@@ -57,7 +57,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.libvio.vip/"
+      "ext": "https://www.libvio.link/"
     },
     {
         "key": "csp_xb_8h",
@@ -101,7 +101,7 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/PandaQ240616.jar",
       "ext": {
         "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
-        "分类url": "https://www.libvio.fun/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类url": "https://www.libvio.link/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "线路数组": "<h3 class=\"iconfont&&</div>[不包含:视频下载#网盘]"
       }
     },
