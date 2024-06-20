@@ -1,18 +1,18 @@
 {
   "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
   "warningText": "已加载",
-  "spider": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/fan40616.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/fan40616.jar",
   "sites": [
     {
       "key": "豆瓣1",
       "name": "🍇【发发发发】(日期0617)",
       "type": 3,
-      "api": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/apiv15drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/apiv15drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/drpy.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/drpy.js"
     },
     {
       "key": "豆瓣",
@@ -47,7 +47,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240616.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/PandaQ240616.jar"
     },
     {
       "key": "csp_Lib",
@@ -67,7 +67,7 @@
         "quickSearch": 1,
         "filterable": 0,
         "api": "csp_XBiu",
-        "jar":"https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/xyq0410.jar",
+        "jar":"https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/xyq0410.jar",
         //"ext":"http://www.soutiyi.com/frim/{cateId}-{catePg}.html"
         "ext":"http://www.bahaoys.com/frim/{cateId}-{catePg}.html"
     },
@@ -79,7 +79,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "jar":"https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/xyq0410.jar",
+        "jar":"https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/xyq0410.jar",
         "ext":"https://www.saohuotva.com/s/{cateId}/page/{catePg}.html"
     },
     {
@@ -89,7 +89,7 @@
       "api": "csp_Duopan",
       "playerType": 2,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240616.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/PandaQ240616.jar",
       "ext": "https://duopan.fun/"
     },
     {
@@ -98,7 +98,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": 2,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240616.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/PandaQ240616.jar",
       "ext": {
         "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
         "分类url": "https://www.libvio.fun/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
@@ -113,7 +113,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar":"https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/BinGeShiJie40527.jar",
+        "jar":"https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/BinGeShiJie40527.jar",
         "ext":"https://ghproxy.net/https://raw.githubusercontent.com/793641910/binge/main/json/FreeOK.json"
     },
     {
@@ -124,7 +124,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar":"https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/BinGeShiJie40527.jar",
+        "jar":"https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/BinGeShiJie40527.jar",
         "ext": "https://www.netfly.tv/api.php/app/"
     },
     {
@@ -143,14 +143,14 @@
         "嗅探词": "m3u8#.m3u8#.mp4#mp4#/obj/",
         "免嗅": "0",
         "分类": "电影$1#电视$2#动漫$4#综艺$3"},
-        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/BinGeShiJie40527.jar"
+        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/BinGeShiJie40527.jar"
     }, 
     {
       "key": "drpy_js_LIBVIO",
       "name": "💠|LibVio|道长",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/libvio/LIBVIO.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/libvio/LIBVIO.js"
       //"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/LIBVIO.js"
     },
     {
@@ -179,8 +179,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/dyg.json",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/dyg.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
     {
       "key": "csp_LiteApple",
@@ -220,7 +220,7 @@
       "name": "🍄|比特|肥猫",
       "type": 3,
       "api": "csp_Bttwo",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240616.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/PandaQ240616.jar"
     },
     {
       "key": "csp_Juqq",
@@ -228,14 +228,14 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Juqq",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240616.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/PandaQ240616.jar"
     },
     {
         "key": "AppYs_南瓜ymz",
         "name": "👑|南瓜|ymz已停更",
         "type": 3,
         "playerType":2,
-        "api": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/drpy2.min%20nanguaymz.js",                     
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/drpy2.min%20nanguaymz.js",                     
         "changeable": 0,
         "searchable": 1,
         "quickSearch": 1,
@@ -246,7 +246,7 @@
       "name": "🎃|南瓜|肥猫",
       "type": 3,
       "playerType": "2",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240616.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/PandaQ240616.jar",
       "api": "http://js.xn--z7x900a.com/js/ng_open.js"
     },
     {
@@ -254,7 +254,7 @@
       "name": "🏰┃圣城┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240616.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/PandaQ240616.jar",
       "ext": {
         "线路数组": "data-dropdown-value=&&</div>[排序:蓝光ZK][不包含:APP专线#蓝光M#爱奇艺#腾讯视频#优酷视频#芒果TV]",
         "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
@@ -270,7 +270,7 @@
       "type": 3,
       "api": "csp_Voflix",
       "playerType": "2",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240616.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/PandaQ240616.jar",
       "ext": "https://www.voflix.vip/"
     },
     {
@@ -295,8 +295,8 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
-       "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/XYQ40513/TVB%E4%BA%91%E6%92%AD.json",
-       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40602.jar"
+       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/XYQ40513/TVB%E4%BA%91%E6%92%AD.json",
+       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/XYQ40602.jar"
     },
     {
       "key": "云播影视",
@@ -314,7 +314,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240616.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/PandaQ240616.jar"
     },
     {
         "key":"达达龟",
@@ -324,8 +324,8 @@
         "searchable":1,
         "quickSearch":1,
         "filterable":1,
-        "jar":"https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/HeChengChaXiu40228.jar",
-        "ext":"https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/%E8%BE%BE%E8%BE%BE%E9%BE%9F%E5%BD%B1%E8%A7%86.json"
+        "jar":"https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/HeChengChaXiu40228.jar",
+        "ext":"https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/%E8%BE%BE%E8%BE%BE%E9%BE%9F%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "iKanBot",
@@ -335,7 +335,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40602.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/XYQ40602.jar",
       "ext": "https://v.ikanbot.com"
     },
       {
@@ -346,8 +346,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40602.jar",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/XYQ40513/MOFLIX%E5%BD%B1%E9%99%A2.json"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/XYQ40602.jar",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/XYQ40513/MOFLIX%E5%BD%B1%E9%99%A2.json"
     },
     {
       "key": "csp_XYQHiker_奈飞中文",
@@ -357,8 +357,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40602.jar",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/XYQ40513/%E5%A5%88%E9%A3%9E%E4%B8%AD%E6%96%87.json"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/XYQ40602.jar",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/XYQ40513/%E5%A5%88%E9%A3%9E%E4%B8%AD%E6%96%87.json"
     },
     {
       "key": "火狐",
@@ -432,7 +432,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/nmys.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/nmys.js"
     },
     {
       "key": "csp_疯狗",
@@ -442,8 +442,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/HeChengChaXiu40228.jar",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/%E7%96%AF%E7%8B%97%E5%BD%B1%E8%A7%86.json"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/HeChengChaXiu40228.jar",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/%E7%96%AF%E7%8B%97%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_XYQHiker_疯狗影视",
@@ -453,8 +453,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40602.jar",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/XYQ40513/%E7%96%AF%E7%8B%97%E5%BD%B1%E8%A7%86.json"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/XYQ40602.jar",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/XYQ40513/%E7%96%AF%E7%8B%97%E5%BD%B1%E8%A7%86.json"
     },
     {
         "key": "csp_Mp4Mov",
@@ -464,7 +464,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40602.jar"
+        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/XYQ40602.jar"
     },
     {
       "key": "csp_XYQHiker_Vidhub视频库",
@@ -474,8 +474,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40602.jar",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/Vidhub%E8%A7%86%E9%A2%91%E5%BA%93%E6%94%B9.json"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/XYQ40602.jar",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/Vidhub%E8%A7%86%E9%A2%91%E5%BA%93%E6%94%B9.json"
     },
     {
       "key": "csp_XYQBiu_Libvio",
@@ -485,8 +485,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40602.jar",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/libvioXYQ.json"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/XYQ40602.jar",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/libvioXYQ.json"
     },
     {
       "key": "南瓜",
@@ -633,8 +633,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/apiv177drpy1.min.js",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/jp.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/apiv177drpy1.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/jp.js"
     },
     {
       "key": "csp_Xunlei8",
@@ -644,7 +644,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40602.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/spider/XYQ40602.jar"
     },
     {
       "key": "Biliych",
@@ -678,7 +678,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/Blixs.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/Blixs.json"
     },
     {
       "key": "戏 曲",
@@ -688,7 +688,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/Blixq.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/mikidisc/ysc/main/aiTVba/lib/Blixq.json"
     }
   ],
    "parses": [
