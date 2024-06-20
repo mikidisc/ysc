@@ -1,0 +1,24 @@
+{ "urls": [{ "url": "http://饭太硬.com/tv", "name": "🍚饭太硬" },
+
+{ "url": "http://肥猫.com", "name": "😻肥猫" },
+
+{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "🍩小米" },
+
+{ "url": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/%E7%88%B1TV%E5%90%A7.json", "name": "💚爱TV（230917自维）" },
+
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/yhxxm/my/main/box.json", "name": "yhxxm" },
+
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json", "name": "香雅晴" },
+
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/793641910/binge/main/BinGeShi.json", "name": "兵哥" },
+
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天流云" },
+
+{ "url": "https://files.catbox.moe/eu3uj5", "name": "夜猫子" },
+
+{ "url": "https://pastebin.com/raw/5NHaxyGR", "name": "道长" },
+
+{ "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8", "name": "云星日记" },
+
+{ "url": "http://rihou.cc:88/荷城茶秀", "name": "荷城茶秀" }
+]}
